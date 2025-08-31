@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manaklal
-- 👀 I’m interested in coding - 🌱 I’m currently learning
+- 👀 I’m interested in rust - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
